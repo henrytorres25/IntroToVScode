@@ -12,6 +12,8 @@ x = np.linspace(0, 20, 100)
 plt.plot(x,np.sin(x))
 plt.show()
 
+print("Hello there!")
+
 #github: an application that allows us to keep track of changes to our website
 #source control and version control
 #version control: Everything related to your project (html, css, photos, videos)
